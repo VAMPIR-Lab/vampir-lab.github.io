@@ -1,9 +1,9 @@
 ---
 layout: member
-category: staff
-title: Forrest Laine
+category: student
+title: Max Milkert
 image: researcher.png
-role: Lab Director
+role: PhD Student
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/

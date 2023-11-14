@@ -1,9 +1,9 @@
 ---
 layout: member
-category: staff
-title: Forrest Laine
-image: researcher.png
-role: Lab Director
+category: student
+title: Alexy Skoutnev
+image: alexy.png
+role: PhD Student
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
