@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: director
 title: Forrest Laine
 image: researcher.png
 role: Lab Director
