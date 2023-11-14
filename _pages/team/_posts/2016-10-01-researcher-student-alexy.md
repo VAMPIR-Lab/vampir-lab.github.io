@@ -4,13 +4,13 @@ category: student
 title: Alexy Skoutnev
 image: alexy.png
 role: PhD Student
-permalink: 'team/researcher-name'
+permalink: 'team/researcher-name-alexy'
 social:
     # twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/in/alexyskoutnev/
     google-scholar: https://scholar.google.com/citations?user=QhnjZwAAAAJ&user=_QhnjZwAAAAJ
     github: https://github.com/alexyskoutnev
-    website: https://alexyskoutnev.github.io/
+    websitecd: https://alexyskoutnev.github.io/
     # orcid: https://orcid.org/
     # research-gate: https://www.researchgate.net/
 education:
