@@ -9,7 +9,7 @@ social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
     google-scholar: https://scholar.google.com/citations?user=KYvCJ3QAAAAJ
-    github: [https://github.com/](https://github.com/cinaral)
+    github: https://github.com/cinaral
     website:
     orcid: https://orcid.org/
     research-gate: https://www.researchgate.net/
