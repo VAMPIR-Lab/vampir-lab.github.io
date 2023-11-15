@@ -10,5 +10,6 @@ social:
     google-scholar: https://scholar.google.com/citations?user=NRGqPGUAAAAJ&hl=en&oi=ao
     github: https://github.com/forrestlaine
 education:
- - Education
+ - Ph.D. in Electrical Engineering and Computer Sciences. University of California, Berkeley, August 2021.
+ - B.S. in Electrical Engineering and Computer Sciences. University of California, Berkeley, May 2015.
 ---
