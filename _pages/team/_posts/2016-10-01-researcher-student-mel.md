@@ -2,19 +2,19 @@
 layout: member
 category: student
 title: Mel Krusniak
-image: researcher.png
+image: mel.jpeg
 role: PhD Student
-permalink: 'team/researcher-name'
+permalink: 'team/mel'
 social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
+    twitter:
+    linkedin:
+    google-scholar: https://scholar.google.com/citations?user=WiExxwIAAAAJ&hl=en&oi=ao
+    github: https://github.com/krusnim
     website:
-    orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
+    orcid: 
+    research-gate: 
 education:
- - Education
+ - B.S. Computer Science, Yale University
 ---
+Miles (Mel) Krusniak has been a PhD student at the VAMPIR Lab since July 2022. Mel’s research interests include game theory for multiple robotics, software tools for equilibrium problems, and emergent behavior in many-agent decision-making problems.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
