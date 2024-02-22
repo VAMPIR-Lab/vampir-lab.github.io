@@ -2,19 +2,19 @@
 layout: member
 category: student
 title: Pravesh Koirala
-image: researcher.png
+image: pravesh.png
 role: PhD Student
-permalink: 'team/researcher-name'
+permalink: 'team/pravesh'
 social:
     twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
-    website:
-    orcid: https://orcid.org/
+    linkedin: https://www.linkedin.com/in/pravesh-koirala-7874808a/
+    google-scholar: https://scholar.google.com/citations?user=UQwD7a0AAAAJ&hl=en&oi=ao
+    github: https://github.com/PraveshKoirala
+    website: https://praveshkoirala.com
+    orcid: https://orcid.org/0009-0004-1331-3804
     research-gate: https://www.researchgate.net/
 education:
- - Education
+ - BE (Computer) & MSc (Computer Science), Tribhuvan University
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Pravesh works in Computational Game Theory and Multilevel Optimization. His work is focused towards modeling and finding solutions to complex strategic interactions in leader-follower games. He is also interested in Multi-Agent Deep Reinforcement learning.
