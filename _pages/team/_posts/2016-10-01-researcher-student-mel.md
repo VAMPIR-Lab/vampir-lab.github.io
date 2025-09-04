@@ -16,5 +16,8 @@ social:
 education:
  - B.S. Computer Science, Yale University
 ---
-Miles (Mel) Krusniak has been a PhD student at the VAMPIR Lab since July 2022. Mel’s research interests include game theory for multiple robotics, software tools for equilibrium problems, and emergent behavior in many-agent decision-making problems.  
+
+I am a Mel Krusniak, a PhD student in the VAMPIR Lab at Vanderbilt University, where my research focuses on computational game theory, optimization, and control. My work centers on developing rigorous mathematical programming methods to solve challenging multilevel problems such as continuous games with imperfect information, multilevel optimization, and trajectory planning under uncertainty. I am particularly interested in bridging theory and application—whether in designing algorithms for collision avoidance in robotics or creating frameworks for strategic interactions in dynamic, real-world systems.
+
+Recently, I have worked on projects including Mixed Strategy Constraints in Continuous Games, which introduced a chance-constrained framework for handling coupled constraints in continuous mixed-strategy games, and Online Competitive Information Gathering for Partially Observable Trajectory Games, which explores online methods for rational planning in uncertain, adversarial environments. Across my research, I am motivated by the challenge of combining mathematical rigor with practical impact, and I see optimization and game theory as powerful tools for advancing both engineering and interdisciplinary applications.
 
