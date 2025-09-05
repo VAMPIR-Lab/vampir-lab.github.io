@@ -1,0 +1,67 @@
+---
+title: "Research"
+layout: default
+excerpt: "RT2 Lab: Team members"
+sitemap: false
+permalink: /research/
+---
+
+<h1>{{page.title}}</h1>
+
+<!-- Current Projects -->
+
+<h2><a id="current-projects"></a>Current Projects</h2>
+{% assign projects = site.posts | where: 'category', 'current-projects' | sort: 'date' %}
+{% for project in projects reversed %}
+<div class="card research-card">
+    <div class="card mb-8">
+        <div class="row no-gutters">
+            {% if project.image %}
+                <div class="col-md-3">
+                    <img src="{{ site.url }}{{ site.baseurl }}/images/projects/{{ project.image }}"
+                        class="card-img img-responsive img-thumbnail"
+                        style="max-width: 160px;"/>
+                </div>
+            {% endif %}
+            <div class="col">
+                <div class="card-body">
+                    <a href={{project.url}}>
+                        <h4 class="card-title">{{ project.title }}</h4>
+                    </a>
+                    <p class="card-text">{{ project.role }}</p>
+                    <p class="card-text">{{ project.excerpt }}</p>
+               </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}
+
+<!-- Past Projects -->
+
+<h2><a id="past-projects"></a>Past Projects</h2>
+{% assign projects = site.posts | where: 'category', 'past-projects' | sort: 'date' %}
+{% for project in projects reversed %}
+<div class="card research-card">
+    <div class="card mb-8">
+        <div class="row no-gutters">
+            {% if project.image %}
+                <div class="col-md-3">
+                    <img src="{{ site.url }}{{ site.baseurl }}/images/projects/{{ project.image }}"
+                        class="card-img img-responsive img-thumbnail"
+                        style="max-width: 160px;"/>
+                </div>
+            {% endif %}
+            <div class="col">
+                <div class="card-body">
+                    <a href={{project.url}}>
+                        <h4 class="card-title">{{ project.title }}</h4>
+                    </a>
+                    <p class="card-text">{{ project.role }}</p>
+                    <p class="card-text">{{ project.excerpt }}</p>
+               </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}
