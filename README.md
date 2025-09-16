@@ -66,63 +66,6 @@ cupidatat non proident, sunt in culpa qui officia deserunt
 mollit anim id est laborum.
 ```
 
-### Add a new publication
-
-Publications are stored as `.json` file under
-[_data/publications.json](_data/publications.json).
-This json file is exported from [Zotero](https://www.zotero.org/)
-bibliography tool.
-
-Just add a new entry to the list like this:
-
-``` json
-{
-  "id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
-  "type": "article-journal",
-  "title": "Foo",
-  "container-title": "IEEE Transactions on Medical Imaging",
-  "page": "448-459",
-  "volume": "38",
-  "issue": "2",
-  "source": "IEEE Xplore",
-  "abstract": "Bar",
-  "DOI": "10.1109/TMI.2018.2865709",
-  "author": [
-    {
-      "family": "",
-      "given": ""
-    },
-  ],
-  "issued": {
-    "date-parts": [
-      [
-        "2019",
-        2
-      ]
-    ]
-  }
-}
-```
-
-### Add news
-
-News are stored as `.yml` file under [_data/news.yml](_data/news.yml).
-
-An entry looks like the following:
-
-```yaml
-- date: 03/09/19
-  title: "Something great"
-  tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
-```
-
 ### Edit template
 
 We use [Bootstrap](https://getbootstrap.com/) for designing the website.
